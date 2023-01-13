@@ -27,7 +27,8 @@ module.exports = {
 ```
 
 - 3、使用软链接让`mycli-ljy`调用`mycli-ljy-2`
-  三、编写`mycli-ljy init --name test`命令
+
+三、编写`mycli-ljy init --name test`命令
 
 ```javascript
 // 获取全部的参数
