@@ -1,5 +1,6 @@
 一、核心思想
 使用 node 自带的 process 库去读取命令的参数
+
 二、准备
 
 - 1、查看 require("process").argv 是什么
