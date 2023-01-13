@@ -1,0 +1,14 @@
+{
+  "name": "mycli-ljy",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "mycli-ljy": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "linjunyuan <1134809127@qq.com>",
+  "license": "MIT"
+}
